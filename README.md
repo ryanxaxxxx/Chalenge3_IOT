@@ -8,6 +8,8 @@ Foi pensado como um protótipo de **segurança IoT para motocicletas**.
 
 ---
 
+Link para o vídeo:  https://youtu.be/vIfa8ynkxt0
+
 ## 📦 Tecnologias e Componentes Utilizados
 
 * **Arduino Uno R3**
@@ -102,5 +104,7 @@ Monte os componentes conforme descrito:
 
 ## 👨‍💻 Autores:
 
-
+Ryan Fernando Lucio da Silva - 555924
+Lucas Henrique de Souza Santos - 558241
+Mariana Roberti Neri - 556284
 
