@@ -1,7 +1,7 @@
 # 🚨 Projeto IoT – Moto Security System
 
 Este projeto implementa um **sistema embarcado de monitoramento e alerta para motos**, utilizando **Arduino Uno** e diversos sensores/atuadores.
-A lógica foi desenvolvida em **C++ (Arduino IDE)**, com persistência de dados em **EEPROM** para histórico de eventos e configuração do sistema.
+A lógica foi desenvolvida em **C++ (Wokwi)**, com persistência de dados em **EEPROM** para histórico de eventos e configuração do sistema.
 
 O sistema exibe estados da moto em um **LCD 16x2 I2C**, controla **LEDs de status**, **buzzer de alerta**, e registra dados ambientais via **DHT22**.
 Foi pensado como um protótipo de **segurança IoT para motocicletas**.
@@ -73,7 +73,7 @@ Monte os componentes conforme descrito:
 
 ### 2. Upload
 
-1. Abra o `sketch.ino` no **Arduino IDE** ou **VS Code + PlatformIO**
+1. Abra o `sketch.ino` no **Wokwi** ou **VS Code + PlatformIO**
 2. Instale as bibliotecas necessárias (via *Library Manager*).
 3. Compile e faça upload para o **Arduino Uno**.
 
